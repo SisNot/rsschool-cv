@@ -1,1 +1,1 @@
-# rsschool-cv
+https://SisNon.github.io/rsschool-cv/cv
