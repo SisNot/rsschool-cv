@@ -9,3 +9,35 @@
 ___
 ## About Me
 <p>I have strong interpersonal skills, work well in a collaborative environment, and am enthusiastic about learning and honing new skills. My track record demonstrates reliability, dependability, and an ongoing willingness to take on additional responsibilities in a variety of professional areas.</p>
+
+## Skills
+* **HTML**
+* **CSS**
+* **JavaScript**
+* **GitHub**
+___
+## Code Examples
+```JavaScript
+function isPrime(number) {
+  if (number < 2) {
+    return false;
+  }
+
+  for (let i = 2; i <= Math.sqrt(number); i++) {
+    if (number % i === 0) {
+      return false;
+    }
+  }
+
+  return true;
+}
+```
+## Experince
+* Computer typesettiong operator
+* Secretary
+* System administrator
+## Education 
+* Courses
+  * Powercode Academy QA-Enginer
+## English
+**Beginner** (At the learning stage) 
