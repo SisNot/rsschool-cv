@@ -2,7 +2,7 @@
 > Front-end is the creativity of web development, where code becomes interface art.
 ## Contacts
 * **Location:** Odessa, Ukraine
-* **Phone:** 099-999-99-99
+* **Phone:** 099-999-99-89
 * **Email:** stream.gum@gmail.com
 * **linkedin** [Oleksandr Haiev](https://www.linkedin.com/in/oleksandr-haiev-768590245/)
 * **GitHub** [SisNot](https://github.com/SisNot)
